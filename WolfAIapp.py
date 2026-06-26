@@ -50,7 +50,7 @@ st.markdown(
 st.markdown(
     """
     <h1>🐺 <span style='color:#9D9DFF;'>Wolf</span>AI Assistant</h1>
-    <p>Ask any question — howl your way to an answer.</p>
+    <p>Ask Query.</p>
     """,
     unsafe_allow_html=True,
 )
